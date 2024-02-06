@@ -1,0 +1,28 @@
+.container {
+    padding-top: 50px;
+}
+
+.img {
+    position: relative;
+    top: 150px;
+    right: 180px;
+}
+
+.footer-container{
+    position: relative;
+    top: 50px;
+
+}
+
+.password-toggle {
+    position: absolute;
+    right: 90px;
+    top: 50%;
+    transform: translateY(-195%);
+    cursor: pointer;
+}
+
+.password-toggle:hover {
+    color: red;
+}
+

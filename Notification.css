@@ -1,0 +1,14 @@
+.notification-popup {
+    position: fixed;
+    top: 65px;
+    /* Sesuaikan dengan tinggi yang diinginkan dari bagian atas */
+    right: 10px;
+    /* Sesuaikan dengan jarak yang diinginkan dari kanan */
+    background-color: #28a745;
+    color: #fff;
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    z-index: 1000;
+    /* Menentukan lapisan z-index agar popup muncul di atas elemen lain */
+}
